@@ -1,0 +1,40 @@
+body{
+	margin-left:5%;
+}
+/* header*/
+#date{
+	font-size: 26px;
+	border-bottom: 7px solid black;
+	width: 10%;
+	display:inline-block;
+
+}
+#line{
+	border-bottom: 7px solid black;
+	width:80%;
+	display:inline-block;
+	vertical-align: bottom;
+	margin-left: 10px;
+}
+/*nav*/
+nav{
+	margin-top: 20px;
+}
+#A{
+	color: red;
+	font-size:15px;
+}
+/* section*/
+section{
+	margin-top: -20px;
+	margin-left: 180px;
+}
+	
+.marge{
+	margin-bottom: 20px;
+}
+
+table{
+	border-collapse: collapse;
+}
+
